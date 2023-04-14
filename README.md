@@ -23,9 +23,4 @@
 </p>
 <p width="100%">
 <img width="32%" src="https://user-images.githubusercontent.com/71299022/225011308-b80382fa-0230-4587-8978-a78f54841031.png" />
-<img width="32%" src="https://user-images.githubusercontent.com/71299022/225011318-a04f7713-c822-4606-a715-6e949a818a53.jpg" />
-<img width="32%" src="https://user-images.githubusercontent.com/71299022/225011329-427c653d-62f0-42f3-8513-b8a4d4df508a.png" />
-</p>
-<p width="100%">
-<img width="32%" src="https://user-images.githubusercontent.com/71299022/225011341-65473512-05ea-4fb7-bade-57b36892f6db.jpg" />
 </p>
